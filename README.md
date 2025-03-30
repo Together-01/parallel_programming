@@ -1,2 +1,2 @@
 # parallel_programming
-parallel_programming crouse of NKU
+Parallel Programming crouse of NKU
